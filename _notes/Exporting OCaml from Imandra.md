@@ -1,9 +1,8 @@
 ---
-season: winter
 tags: imandra, ocaml
 ---
 
-Once we verified our code with Imandra, we want to extract it to OCaml so that it is compiled with optimisation and runs faster. Note that the extracted OCaml code uses arbitrary precision integers, it retains exactly the same semantics as Imandra's language.
+After [[Verifying an Algorithm with Imandra - Working Notes|verifying our code with Imandra]], Imandra allows to export the verified code to native OCaml for better performance and easier deployment. Note that the extracted OCaml code uses arbitrary precision integers instead of floats, it retains exactly the same semantics as Imandra's language.
 
 For extracting OCaml code, we can use `imandra-extract file_name.iml > file_name.ml` on each file, but for multi-file development it is easier to set up a dune project.
 
@@ -42,7 +41,7 @@ Content of `dune-project`:
 	(interface (extension "imli")))
 ```
 
-We use a [`dialect` stanza](https://dune.readthedocs.io/en/stable/dune-files.html#dialect) to apply `imandra-extract` to all iml files.
+We use a [`dialect` stanza](https://dune.readthedocs.io/en/stable/dune-files.html#dialect) to apply `imandra-extract` to all `iml` files.
 
 Example content of a `dune` file for an executable:
 

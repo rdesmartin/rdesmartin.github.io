@@ -39,3 +39,18 @@ read: false
 readings: []
 added: 2023-04-28
 ---
+
+This paper proves monotony property of Neural networks that model a physical system (breaks in an airplane), where monotony is a physical property of the approximated model that we want the NN to have.
+
+> Today, state-of-the-art methods for enforcing partial monotony
+No citation here, what are they refering to? De Maria et al?
+
+They propose a refinement of the monotony property: it has to be monotonous only in the desired area -> moving the burden of verification from the verifier to the specification
+
+Related works discussion: Some methods merely encourage monotony without enforcing it.
+Some methods enforce it for continuous variables
+Others use hand-designed structures that enforce monotony but make training harder
+Urban, C., Christakis, M., W ̈ ustholz, V., Zhang, F.: Perfectly parallel fairness certification of neural networks, considers monotony for discrete input spaces
+
+The goal is not to prove monotonicity glabally but identify regions for which monotonicity holds and those which don't.
+Could this be translated to a structural property, i.e. quantified on networks?

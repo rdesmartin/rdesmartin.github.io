@@ -3,7 +3,6 @@ season: winter
 toc: true
 tags: ocanl imandra
 ---
+[The decoder library](https://ocaml.org/p/decoders-yojson/1.0.0/doc/index.html) defines a decoder monad, and nice binding operators (`let*`).
 
-[link](https://ocaml.org/p/decoders-yojson/1.0.0/doc/index.html)
-
-Useful for parsing, richer API and better error messages than using Imandra's `Yojson` module.
+It is very useful for parsing JSON, and provides a way richer API and better error messages than using Imandra's `Yojson` module.

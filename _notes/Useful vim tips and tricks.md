@@ -3,7 +3,7 @@ tags: tools snippets
 season: spring
 ---
 
-# Delete until specified charcter
+# Delete until specified character
 
 > Use `dtc`, where c is any character, e.g. for you, you want `dt"`
 > This will delete upto but not including c.
