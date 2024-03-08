@@ -1,0 +1,7 @@
+- [x] Copy old notes files
+- [x] Copy old landing page description
+- [ ] add photo
+- [x] add publications
+- [ ] add CV
+- [x] edit footer
+- [ ] add preprint link to bib entries
