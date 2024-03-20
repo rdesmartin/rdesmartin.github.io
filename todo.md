@@ -4,4 +4,17 @@
 - [x] add publications
 - [ ] add CV
 - [x] edit footer
-- [ ] add preprint link to bib entries
+- [x] add preprint link to bib entries
+- [ ] add talks and slides
+- [ ] Change style to use Garamond for titles, and Gill sans for the text
+- [ ] Add reading list
+- [ ] figure out https
+	- [x] Add A record in DNS zone
+	- [x] wait 24 hours for changes to propagate
+	- [x] check troubleshooting [here](https://answers.netlify.com/t/support-guide-troubleshooting-ssl-certificate-errors/39865)
+- [ ] setup analytics
+	- [x] compare Mototo v. Google analytics v. **Plausible**
+	- [ ] Install Plausible
+	- [ ] setup http server on VPS: Caddy
+	- [ ] setup Caddy to redirect calls to plausible.remidesmartin.me to plausible
+	- [ ] setup Plausible config

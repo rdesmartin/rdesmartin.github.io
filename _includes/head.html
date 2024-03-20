@@ -13,6 +13,8 @@
 
   <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
 
+  <script defer data-domain="{{site.analytics.site_id}}" src="{{site.analytics.plausible_url}}/js/script.js"></script>
+
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
   {% else %}

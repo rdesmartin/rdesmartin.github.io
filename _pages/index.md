@@ -38,7 +38,6 @@ Here are the conferences, workshops and schools that I have attended:
 * FoMLas 2022: online
 * TYPES 2022: France
 
-
 <style>
   .wrapper {
     max-width: 46em;

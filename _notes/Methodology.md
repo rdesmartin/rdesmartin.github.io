@@ -28,6 +28,13 @@ Only read the methods, detailed experiments, etc. if I want to reproduce the exp
 Keep a reading list of papers that are of interest, with short explanation why I want to read them (because it is easy to forget!) 
 # Writing
 
+## Management
 It is hard/impossible to control exactly the output of a writing session. Instead of setting a content goal ("by the end of the week I will have written the introduction") set time goals ("by the end of the week I will have spent 5 hours writing") and stick to these goals.
 
-Figure out most productive time of the day for focused work and set 1hr of writing each day, or set aside a single day only for writing. 
+Figure out most productive time of the day for focused work and set 1hr of writing each day, or set aside a single day only for writing.
+
+## Writing Tips
+* Favor active phrases over passive ones for greater clarity
+* Start with bullet points
+
+# General Productivity
