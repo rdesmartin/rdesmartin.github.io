@@ -8,13 +8,13 @@
 - [ ] add talks and slides
 - [ ] Change style to use Garamond for titles, and Gill sans for the text
 - [ ] Add reading list
-- [ ] figure out https
+- [x] figure out https
 	- [x] Add A record in DNS zone
 	- [x] wait 24 hours for changes to propagate
 	- [x] check troubleshooting [here](https://answers.netlify.com/t/support-guide-troubleshooting-ssl-certificate-errors/39865)
-- [ ] setup analytics
+- [x] Analytics
 	- [x] compare Mototo v. Google analytics v. **Plausible**
-	- [ ] Install Plausible
-	- [ ] setup http server on VPS: Caddy
-	- [ ] setup Caddy to redirect calls to plausible.remidesmartin.me to plausible
-	- [ ] setup Plausible config
+	- [x] Install Plausible
+	- [x] http server on VPS: Caddy
+	- [x] reverse-proxy: Caddy to redirect calls to plausible.remidesmartin.me to plausible
+	- [x] setup Plausible config
