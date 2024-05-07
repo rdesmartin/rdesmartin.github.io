@@ -37,4 +37,8 @@ Figure out most productive time of the day for focused work and set 1hr of writi
 * Favor active phrases over passive ones for greater clarity
 * Start with bullet points
 
-# General Productivity
+## Writing with multiple supervisors/co-authors
+The first draft is a large chaos, akin to a wide search space, with lots of room for improvements. The first pass by a co-author, we undo a lot and do a lot of changes; this reduces the amount of possible improvements/the search space. Then a new co-author does a pass, they don't see the first ecremage, they also introduce a lot of changes, but for them it is easier to find improvements because the search space was reduced. This again reduces the size of the search space.
+In the end, it should only remain a tiny kernel of search space, very dense with information and ready to burst with knowledge if you touch it.
+
+Is there an entropy/information theory comparison to do here?
