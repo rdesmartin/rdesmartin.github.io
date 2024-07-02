@@ -78,7 +78,7 @@ You can then access it by entering the IP address in your browser. Don't create 
 ## Insert the JS script in your website's code
 
 Once your plausible instance is up and running, time to connect your website to it.
-![](/assets/plausible_new_website.png)
+![](assets/images/plausible_new_website.png)
 
 It gives you a snippet to paste into your website's code. If you're using Jekyll, simply add it to `header.html` or any include or layout that gets rendered on all pages of your website.
 
@@ -97,5 +97,5 @@ analytics:
 {% endif %}
 ```
 ## Enjoy your Analytics!
-![](/assets/plausible_dashboard.png)
+![](assets/images/plausible_dashboard.png)
 

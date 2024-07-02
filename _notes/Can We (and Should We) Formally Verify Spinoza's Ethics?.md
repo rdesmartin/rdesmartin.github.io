@@ -1,3 +1,11 @@
+---
+tags:
+  - research
+  - logic
+  - itp
+  - philosophy
+---
+
 Spinoza's *Ethics* is an important work from 17th c. philosopher Baruch Spinoza. In it, Spinoza presents his philosophical system in an axiomatic way, in the manner of Euclid's geometry. It resembles a logical theory. As in all logical theories, we expect that, all the system composed of  these axioms and the rules of inference should be *sound*, meaning that all provable propositions are true, or alternatively, it is not possible to prove propositions that are false. 
 
 If it is relatively straightforward to try to prove soundness of a formally defined theory, Spinoza's ethics is *not* such a formally defined work. In fact, Spinoza explicitly writes it: the only mention he makes of it in *Ethics* is to say that it is not relevant to his work[^1]. Since he does not give formal definitions of the connectives he considers, there are debates on the exact meaning of some the notions Spinoza uses (e.g. "attribute", "necessity").
