@@ -1,5 +1,9 @@
 ---
-tags: imandra, ocaml
+tags:
+  - imandra
+  - ocaml
+  - research
+  - programming
 ---
 
 After [[Verifying an Algorithm with Imandra - Working Notes|verifying our code with Imandra]], Imandra allows to export the verified code to native OCaml for better performance and easier deployment. Note that the extracted OCaml code uses arbitrary precision integers instead of floats, it retains exactly the same semantics as Imandra's language.

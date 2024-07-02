@@ -1,6 +1,9 @@
 ---
-tags: tools snippets
+tags:
+  - tools
+  - programming
 season: spring
+toc: true
 ---
 
 # Delete until specified character

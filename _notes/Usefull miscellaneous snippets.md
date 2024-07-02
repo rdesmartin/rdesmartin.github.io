@@ -1,6 +1,8 @@
 ---
 toc: true
-tags: tools snippets
+tags:
+  - programming
+  - tools
 season: spring
 ---
 # Use Wildcard With apt

@@ -1,6 +1,9 @@
 ---
 season: winter
-tags: jupyter python snippets
+tags:
+  - jupyter
+  - python
+  - programming
 ---
 When using Python's virtual environment for a project, we want to be able to launch a Jupyter notebooks server from within the virtual environment so that Jupyter can access the environement's installed packages.
 

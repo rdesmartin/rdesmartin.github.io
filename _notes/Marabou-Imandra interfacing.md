@@ -1,7 +1,10 @@
 ---
 season: winter
 toc: true
-tags: imandra, marabou, proof-checking
+tags:
+  - imandra
+  - marabou
+  - research
 ---
 
 Marabou called externally by Imadra as a module.

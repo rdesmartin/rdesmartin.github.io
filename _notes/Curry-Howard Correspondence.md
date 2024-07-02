@@ -1,3 +1,10 @@
+---
+tags:
+  - research
+  - itp
+  - logic
+  - verification
+---
 classical logic semantics: we need a lattice with negation/complement
 constructive logic semantics: we don't have negation, so we define the relative pseudo-compelement
 

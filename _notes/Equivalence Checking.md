@@ -1,6 +1,8 @@
 ---
+tags:
+  - research
+  - verification
 ---
-
 Equivalence Checking is used successfully in Hardware verification. 
 
 There seem to be 2 tricks used in HW verification that could be of interest for NNV. 

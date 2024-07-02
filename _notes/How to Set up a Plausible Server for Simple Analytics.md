@@ -1,3 +1,9 @@
+---
+tags:
+  - programming
+  - tools
+---
+
 I was curious about how many people (if any) reads this site, but I am also opposed to using Google analytics. After considering the different alternatives (mainly Matomo), I settled on Plausible because it promised [a simple setup using docker](https://github.com/plausible/community-edition) for self-hosting, it doesn't collect individually identifiable information or use cookies (so no need for cookie banners or GDPR headache, and it offers the basic analytics that I wanted (the number of views for each page.) 
 
 Setting it up was very easy using the provided [Docker image](https://github.com/plausible/community-edition), but it necessitated a bit of tweaking for making it work with Caddy as a reverse proxy. 

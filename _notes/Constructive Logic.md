@@ -1,6 +1,7 @@
 ---
-season: winter
-tags: logic, proof-checking
+tags:
+  - logic
+  - research
 ---
 > Constructive mathematics is distinguished from its traditional counterpart, classical mathematics, by the strict interpretation of the phrase “there exists” as “we can construct”. In order to work constructively, we need to re-interpret not only the existential quantifier but all the logical connectives and quantifiers as instructions on how to construct a proof of the statement involving these logical expressions.
 > (...)

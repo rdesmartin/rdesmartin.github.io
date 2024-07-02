@@ -1,4 +1,9 @@
 ---
+tags:
+  - research
+  - verification
+  - itp
+  - imandra
 ---
 
 Working notes for implementing and verifying a piece of software in Imandra (e.g. [[Marabou-Imandra interfacing]]).

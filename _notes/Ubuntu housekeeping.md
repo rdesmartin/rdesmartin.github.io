@@ -1,4 +1,7 @@
 ---
+tags:
+  - programming
+  - tools
 ---
 
 # Free up memory

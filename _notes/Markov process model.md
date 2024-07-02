@@ -1,6 +1,7 @@
 ---
 season: winter
-tags: probabilistic-model
+tags:
+  - research
 ---
 
 https://www.youtube.com/watch?v=2iF9PRriA7w

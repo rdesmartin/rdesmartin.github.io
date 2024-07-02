@@ -1,6 +1,11 @@
 ---
 season: winter
-tags: nnv proof-checking
+tags:
+  - verification
+  - research
+  - itp
+  - imandra
+  - marabou
 ---
 
 ## Motivation
@@ -19,7 +24,7 @@ Proof production consists of generating some artifact during the verification pr
 
 ## Interactive theorem provers and constructive proofs
 
-Constructive proofs are proofs that hold under [[Constructive mathematics]], which is more restrictive than classical logic.
+Constructive proofs are proofs that hold under [[Constructive Logic]], which is more restrictive than classical logic.
 Some theorem provers such as Coq and Agda use constructive logic. If we want to interface one of them with an external tool, the latter must provide a constructive proof for its result to be accepted by the constructive prover.
 Other theorem provers like Isabelle/HOL use classical logic and have valid results.
 

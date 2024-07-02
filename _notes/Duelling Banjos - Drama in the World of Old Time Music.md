@@ -1,3 +1,9 @@
+---
+tags:
+  - misc
+  - music
+---
+
 I recently started playing banjo, and it got me into a bigger moral dilemma that would have ever suspected from this seemingly inoffensive instrument. As I was starting to discover new old-time style banjo players, the all-powerful Youtube algorithm presented me to Clifton Hicks. His style of playing and teaching appealed to me, and I ended up listening to a lot of his recordings and following his tutorials. But then I discovered the less savory sides of his character, including the beef Hicks had with fellow banjo player Jake Blount, and it was my first time having to genuinely ask myself: is it possible to separate the man from the artist? Indeed, there is little alternative to Hicks' content in terms of style, proclaimed authenticity, and quantity. I originally found myself siding with my new-found banjo instructor, Hicks, even though he was clearly the bad guy in this situation. In order to see a bit clearer for myself, and in the hope that it might instruct others on Hicks' character, I decided to write this piece. 
 # Background
 Old-time music is a genre of North American folk music that focuses on playing traditional songs (ballads, traditional dances); the bands are usually a combination of a fiddle with other string instruments like guitar, mandolin and banjo. It developed in North America as a mix of music from the British Isles and other European countries (France, Germany), and African origins, e.g. the banjo. It is the precursor of country music and modern folk music.

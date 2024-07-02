@@ -1,6 +1,9 @@
 ---
+tags:
+  - logic
+  - proof-checking
+season: winter
 ---
-
 Recent advances in image generation models (IGM) like Midjourney, Stable Diffusion or Dall-e pose an ethical and copyright problem, as they are trained on art found online without the artists consent, and make it possible to mimic the artists's style. Artists have already [sued creators of image generation models](https://www.polygon.com/23558946/ai-art-lawsuit-stability-stable-diffusion-deviantart-midjourney).
 
 One possible solution to this problem is to use [adversarial perturbations](https://arxiv.org/abs/1412.6572): it is known that small perturbation in the input can fool even very accurate neural networks. In the case of image input, like it is the case for IGM, these perturbations can be imperceptible to the human eye.

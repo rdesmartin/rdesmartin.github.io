@@ -1,7 +1,10 @@
 ---
 season: winter
-toc: true
-tags: ocanl imandra
+toc: false
+tags:
+  - ocanl
+  - imandra
+  - programming
 ---
 [The decoder library](https://ocaml.org/p/decoders-yojson/1.0.0/doc/index.html) defines a decoder monad, and nice binding operators (`let*`).
 

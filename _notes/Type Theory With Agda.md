@@ -1,5 +1,10 @@
 ---
+tags:
+  - research
+  - programming
+  - itp
 ---
+
 Notes from MGS 2022 ([full course code files](https://types23.bitbucket.io/))
 # Day 2
 Operations on Types/Sets

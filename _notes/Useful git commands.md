@@ -1,6 +1,8 @@
 ---
 season: spring
-tags: methodology tools snippets
+tags:
+  - tools
+  - programming
 ---
 
 # Show changed files' names

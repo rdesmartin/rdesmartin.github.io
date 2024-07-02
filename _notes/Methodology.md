@@ -1,7 +1,8 @@
 ---
 toc: true
 tags:
-  - methodology
+  - research
+  - tools
 ---
 Various research methodology tips.
 # Reading Academic Papers

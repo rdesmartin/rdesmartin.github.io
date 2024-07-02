@@ -1,6 +1,7 @@
 ---
 season: winter
-tags: probabilistic-model
+tags:
+  - research
 ---
 The goal is to estimate the possible outcomes of an uncertain event, i.e. sampling from random variable's distribution in order to compute some quantity.
 
