@@ -16,15 +16,26 @@ After reaching John o' Groats, we can either go straight back to the closest tra
 
 Overall it is a fairly intense ride, with 187km (211km with the Easter Head detour) and 1890m of uphill, but nothing that can't be done in 2 days. It is all on paved road, the first part from Lairg to Tongue on single-track road, the second part on 2-way road; hopefully it should be fairly quiet, at least on the first half.
 
+The halfway point is around Melvich, but we might push to get to Thurso on the first day and have a slightly more relaxed ride on the second day.
+
 # Logistics
 ## Getting to the Start and back from the end
+* Friday 17:33 -> 21h23: Edinburgh to Inverness
+* Saturday 7:00 -> 8h49: Inverness -> Lairg
+* Sunday 12:30 -> 20:07: Thurso -> Edinburgh
 
+The early train makes Sunday a short day, but I'll be looking for other options. 
 ## Eating and Sleeping
-If you plan early enough, you can get a bed at the Tongue hostel, which is about half way through the trip. 
-There are some pubs and village shops on the way so plenty of refueling opportunities.
+If you plan early enough, you can get a bed in a hostel in Tongue or Thurso; it adds some constraints to the trip but it means less weight to carry.
+For this trip we'll take advantage of Scotland's right to roam laws and wild camp somewhere on the way.
+
+There are some pubs and village shops on the way so plenty of refueling opportunities, which means that we can carry less food and water. 
 
 ## Paper Maps
 In order to not be too dependent on my pone's battery and because I'm a helpless map nerd, I'm planning on getting some OS maps for the route, even though since we'll be following roads, it might be an unnecessary precaution. The whole ride is (almost entirely) covered by 3 OS maps:
 * [OS Landranger 16: Map of Lairg & Loch Shin](https://shop.ordnancesurvey.co.uk/map-of-lairg-loch-shin/)
 * [OS Landranger 10: Map of Strath Naver](https://shop.ordnancesurvey.co.uk/map-of-strath-naver/)
 * [OS Landranger 12: Map of Thurso and Wick](https://shop.ordnancesurvey.co.uk/map-of-thurso-wick/)
+
+# Wrapping up
+That's my current plan, hopefully the weather will be clement and things will go according to plan. I will update this once I've actually done the trip!
