@@ -6,8 +6,9 @@
 - [x] edit footer
 - [x] add preprint link to bib entries
 - [ ] add talks and slides
-- [ ] Change style to use Garamond for titles, and Gill sans for the text
+- [ ] Change style to use Garamond for titles, and ~~Gill sans~~ (find sans serif one) for the text
 - [ ] Add reading list
+- [ ] Notes page: research tag vs. misc tag
 - [x] figure out https
 	- [x] Add A record in DNS zone
 	- [x] wait 24 hours for changes to propagate

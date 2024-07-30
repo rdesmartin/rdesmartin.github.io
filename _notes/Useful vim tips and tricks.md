@@ -46,6 +46,12 @@ The dot `.` represents the current line and the dollar sign `$` the last lign.
 
 [source](https://linuxize.com/post/vim-find-replace/)
 
+# Select Current Paragraph (in visual mode)
+
+`vip`
+
+Very useful when [[Useful Imandra Tips|developing with Imandra]], to copy and paste the lemma you're currently editing into the terminal running Imandra CLI. 
+
 # Install Vundle package manager for NVim
 
 Quick Guide For Vundle packages installation - In short:
@@ -78,4 +84,35 @@ There might be additional installation steps (compilation, run a script, etc.) S
 
     open Terminal and open vim (just vim ) and Type :VundleInstall , On packages installation window, Wait until Vundle installer is getting finished.
 
-(source)[https://stackoverflow.com/a/57945096/8725263)
+[source](https://stackoverflow.com/a/57945096/8725263)
+
+# Using Marks
+**`mx`** tells Vim to add a mark called _x_.
+
+**`` `x ``** tells Vim to return to the line and column for mark x.
+
+**`'x`** tells Vim to return to the beginning of the line where mark x is set.
+
+**`` `. ``** moves the cursor to the line and column where the last edit was made.
+
+**`'.`** moves the cursor to the line where the last edit was made.
+
+**`'"`** moves the cursor to the last position of the cursor when you exited the previous session.
+
+**`:marks`** shows all marks set.
+
+**`:marks x`** shows the mark named x.
+
+**`:jumps`** shows the jumplist.
+
+**`Ctrl-o`** moves the cursor to the last jump.
+
+**`Ctrl-i`** moves the cursor to the previous jump.
+
+**`H`** moves the cursor to the top of the screen or viewport.
+
+**`M`** moves the cursor to the middle of the screen or viewport.
+
+**`L`** moves the cursor to the bottom of the screen or viewport.
+
+[source](https://www.linux.com/news/vim-tips-moving-around-using-marks-and-jumps/)
