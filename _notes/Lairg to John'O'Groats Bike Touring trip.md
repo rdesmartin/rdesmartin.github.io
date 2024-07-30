@@ -52,6 +52,8 @@ The last 10 miles or so are flatter, going through sheep pastures on a very stra
 
 ## Second Leg: Thurso to Wick via John O' Groats
 
+<iframe src="https://www.komoot.com/tour/1692530387/embed?share_token=aAuWgks6Ke8ju2yFMNtZ6371y6fgaZNDgXY4JuF870IqEQ59U3&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
 On Sunday we got an early start and headed for John O' Groats. We were in pleasantly surprised by how little pain we were in given the amount of climbing we had done the previous day. It was a sunny day and the wind was blowing from the West in our backs, we felt pretty confident.
 
 The road to John O' Groats goes through more pastures, we could still see the cliffs, the ocean and the Southernmost Orkney islands in the distance. We reached John O' Groats quite early, it was quiet and sunny. After a short break for coffee and an obligatory pic below the sign, we headed to Wick. 
@@ -66,3 +68,7 @@ In order to not be too dependent on my pone's battery and because I'm a helpless
 * [OS Landranger 10: Map of Strath Naver](https://shop.ordnancesurvey.co.uk/map-of-strath-naver/)
 * [OS Landranger 12: Map of Thurso and Wick](https://shop.ordnancesurvey.co.uk/map-of-thurso-wick/)
 In the end, because we mostly followed the same route, I decided against buying OS maps this time but I will definitely get some at some point. 
+
+# Conclusion
+It was a great trip; the views are incredible and I love that I'm able to go to places where I feel so far away from everything just a train ride from Edinburgh. 
+However it took me a good three days of going to bed at 21:00 to fully recover, so if I was to do it again I would take a day off afterwards. Another thing I would do is book the train earlier in advance so that I have bike spaces booked for all the trip; even though most controllers are chill with it, some are not and can be a real pain. 
