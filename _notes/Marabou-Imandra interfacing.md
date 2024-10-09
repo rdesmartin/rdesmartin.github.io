@@ -6,7 +6,6 @@ tags:
   - marabou
   - research
 ---
-
 Marabou called externally by Imadra as a module.
 
 ## Serialisation format
