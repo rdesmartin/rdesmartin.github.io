@@ -1,11 +1,16 @@
-This series of posts is an experience report on creating a sunrise alarm using Home assistant and a smart light bulb. In this  post, I will go over the choice of hardware and setting up Home Assistant on the Raspberry Pi 4.
+---
+tags:
+  - it
+  - misc
+---
 
+This series of posts is an experience report on creating a sunrise alarm using Home assistant and a smart light bulb. In this  post, I will go over the choice of hardware and setting up Home Assistant on the Raspberry Pi 4.
 # Hardware
 I used the following hardware:
 * Raspberry Pi 4: the oldest version recommended is RPi 3. Home assistant also sell plug and play devices on their website. 
 * Ethernet cable: needed for the installation, and it is recommended to keep using it as it is more reliable than Wifi. 
 * Micro SD card + SD card adaptator for flashing it
-* Ikea Tradfri smart lightbulb: or any smart lamp that works with the Zigbee wireless communication protocol. 
+* Ikea Tradfri smart lightbulb: or any smart lamp that works with the Zigbee wireless communication protocol.
 * Ikea Remote control (optional): also works over Zigbee.
 * SONOFF Zigbee dongle: used to communicate between the RPi and the smart bulbs.
 
