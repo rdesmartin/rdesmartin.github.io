@@ -10,3 +10,4 @@ gem "webrick", "~> 1.8"
 gem "nokogiri"
 gem "citeproc"
 gem "bibtex-ruby"
+gem 'jekyll-scholar', group: :jekyll_plugins
