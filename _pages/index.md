@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Welcome
+title:
 id: home
 permalink: /
 ---
