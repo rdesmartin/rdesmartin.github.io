@@ -29,6 +29,16 @@ I keep my notes here as a [digital garden](https://maggieappleton.com/garden-his
     </ul>
 </div>
 
+<h2>Thinking About AI</h2>
+<div class="papers">
+    <ul>
+        {% for note in site.notes %}
+        {% if note.tags contains "ai_refl" %}
+            <li><a href="{{ note.url }}">{{ note.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</div>
 
 <h2>Random Musings</h2>
 <div class="papers">
